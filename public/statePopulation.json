@@ -1,0 +1,257 @@
+[
+  {
+    "abbreviation": "AL",
+    "stateName": "Alabama",
+    "population": 4849377
+  },
+  {
+    "abbreviation": "AK",
+    "stateName": "Alaska",
+    "population": 736732
+  },
+  {
+    "abbreviation": "AZ",
+    "stateName": "Arizona",
+    "population": 6731484
+  },
+  {
+    "abbreviation": "AR",
+    "stateName": "Arkansas",
+    "population": 2966369
+  },
+  {
+    "abbreviation": "CA",
+    "stateName": "California",
+    "population": 38802500
+  },
+  {
+    "abbreviation": "CO",
+    "stateName": "Colorado",
+    "population": 5355866
+  },
+  {
+    "abbreviation": "CT",
+    "stateName": "Connecticut",
+    "population": 3596677
+  },
+  {
+    "abbreviation": "DE",
+    "stateName": "Delaware",
+    "population": 935614
+  },
+  {
+    "abbreviation": "DC",
+    "stateName": "District of Columbia",
+    "population": 658893
+  },
+  {
+    "abbreviation": "FL",
+    "stateName": "Florida",
+    "population": 19893297
+  },
+  {
+    "abbreviation": "GA",
+    "stateName": "Georgia",
+    "population": 10097343
+  },
+  {
+    "abbreviation": "HI",
+    "stateName": "Hawaii",
+    "population": 1419561
+  },
+  {
+    "abbreviation": "ID",
+    "stateName": "Idaho",
+    "population": 1634464
+  },
+  {
+    "abbreviation": "IL",
+    "stateName": "Illinois",
+    "population": 12880580
+  },
+  {
+    "abbreviation": "IN",
+    "stateName": "Indiana",
+    "population": 6596855
+  },
+  {
+    "abbreviation": "IA",
+    "stateName": "Iowa",
+    "population": 3107126
+  },
+  {
+    "abbreviation": "KS",
+    "stateName": "Kansas",
+    "population": 2904021
+  },
+  {
+    "abbreviation": "KY",
+    "stateName": "Kentucky",
+    "population": 4413457
+  },
+  {
+    "abbreviation": "LA",
+    "stateName": "Louisiana",
+    "population": 4649676
+  },
+  {
+    "abbreviation": "ME",
+    "stateName": "Maine",
+    "population": 1330089
+  },
+  {
+    "abbreviation": "MD",
+    "stateName": "Maryland",
+    "population": 5976407
+  },
+  {
+    "abbreviation": "MA",
+    "stateName": "Massachusetts",
+    "population": 6745408
+  },
+  {
+    "abbreviation": "MI",
+    "stateName": "Michigan",
+    "population": 9909877
+  },
+  {
+    "abbreviation": "MN",
+    "stateName": "Minnesota",
+    "population": 5457173
+  },
+  {
+    "abbreviation": "MS",
+    "stateName": "Mississippi",
+    "population": 2994079
+  },
+  {
+    "abbreviation": "MO",
+    "stateName": "Missouri",
+    "population": 6063589
+  },
+  {
+    "abbreviation": "MT",
+    "stateName": "Montana",
+    "population": 1023579
+  },
+  {
+    "abbreviation": "NE",
+    "stateName": "Nebraska",
+    "population": 1881503
+  },
+  {
+    "abbreviation": "NV",
+    "stateName": "Nevada",
+    "population": 2839099
+  },
+  {
+    "abbreviation": "NH",
+    "stateName": "New Hampshire",
+    "population": 1326813
+  },
+  {
+    "abbreviation": "NJ",
+    "stateName": "New Jersey",
+    "population": 8938175
+  },
+  {
+    "abbreviation": "NM",
+    "stateName": "New Mexico",
+    "population": 2085572
+  },
+  {
+    "abbreviation": "NY",
+    "stateName": "New York",
+    "population": 19746227
+  },
+  {
+    "abbreviation": "NC",
+    "stateName": "North Carolina",
+    "population": 9943964
+  },
+  {
+    "abbreviation": "ND",
+    "stateName": "North Dakota",
+    "population": 739482
+  },
+  {
+    "abbreviation": "OH",
+    "stateName": "Ohio",
+    "population": 11594163
+  },
+  {
+    "abbreviation": "OK",
+    "stateName": "Oklahoma",
+    "population": 3878051
+  },
+  {
+    "abbreviation": "OR",
+    "stateName": "Oregon",
+    "population": 3970239
+  },
+  {
+    "abbreviation": "PA",
+    "stateName": "Pennsylvania",
+    "population": 12787209
+  },
+  {
+    "abbreviation": "RI",
+    "stateName": "Rhode Island",
+    "population": 1055173
+  },
+  {
+    "abbreviation": "SC",
+    "stateName": "South Carolina",
+    "population": 4832482
+  },
+  {
+    "abbreviation": "SD",
+    "stateName": "South Dakota",
+    "population": 853175
+  },
+  {
+    "abbreviation": "TN",
+    "stateName": "Tennessee",
+    "population": 6549352
+  },
+  {
+    "abbreviation": "TX",
+    "stateName": "Texas",
+    "population": 26956958
+  },
+  {
+    "abbreviation": "UT",
+    "stateName": "Utah",
+    "population": 2942902
+  },
+  {
+    "abbreviation": "VT",
+    "stateName": "Vermont",
+    "population": 626562
+  },
+  {
+    "abbreviation": "VA",
+    "stateName": "Virginia",
+    "population": 8326289
+  },
+  {
+    "abbreviation": "WA",
+    "stateName": "Washington",
+    "population": 7061530
+  },
+  {
+    "abbreviation": "WV",
+    "stateName": "West Virginia",
+    "population": 1850326
+  },
+  {
+    "abbreviation": "WI",
+    "stateName": "Wisconsin",
+    "population": 5757564
+  },
+  {
+    "abbreviation": "WY",
+    "stateName": "Wyoming",
+    "population": 584153
+  }
+]
